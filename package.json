@@ -1,0 +1,23 @@
+{
+  "name": "vue-dragselect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yibuyisheng/vue-dragselect.git"
+  },
+  "author": "yibuyisheng@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yibuyisheng/vue-dragselect/issues"
+  },
+  "homepage": "https://github.com/yibuyisheng/vue-dragselect#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "vue-awesome": "^2.3.1"
+  }
+}
